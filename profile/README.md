@@ -4,10 +4,6 @@
 
 [GitHub](https://github.com/kheradafrouz) · [Hugging Face](https://huggingface.co/kheradafrouz) · [Models](https://huggingface.co/kheradafrouz/models) · [نسخه فارسی این صفحه](../README-fa.md)
 
----
-
-## English
-
 ### About Us
 
 **Kherad Afrouz (خرد افروز)** is an independent, Persian-language AI initiative focused on researching, developing, and sharing artificial intelligence models and tools designed for the Persian language and its speakers.
