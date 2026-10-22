@@ -2,6 +2,8 @@
 
 **ساخت هوش مصنوعی فارسی، برای فارسی‌زبانان و فراتر از آن.**
 
+[گیتهاب](https://github.com/kheradafrouz) · [هاگینگ فیس](https://huggingface.co/kheradafrouz) · [مدل ها](https://huggingface.co/kheradafrouz/models) · [English version of this page](.github/profile//README.md)
+
 ### درباره ما
 
 **خرد افروز (Kherad Afrouz)** یک ابتکار مستقل در حوزه هوش مصنوعی است که بر پژوهش، توسعه و انتشار مدل‌ها و ابزارهای هوش مصنوعی متناسب با زبان فارسی و نیازهای فارسی‌زبانان تمرکز دارد.
