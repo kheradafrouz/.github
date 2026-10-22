@@ -2,7 +2,7 @@
 
 **ساخت هوش مصنوعی فارسی، برای فارسی‌زبانان و فراتر از آن.**
 
-[گیتهاب](https://github.com/kheradafrouz) · [هاگینگ فیس](https://huggingface.co/kheradafrouz) · [مدل ها](https://huggingface.co/kheradafrouz/models) · [English version of this page](.github/profile//README.md)
+[گیتهاب](https://github.com/kheradafrouz) · [هاگینگ فیس](https://huggingface.co/kheradafrouz) · [مدل ها](https://huggingface.co/kheradafrouz/models) · [English version of this page](profile/README.md)
 
 ### درباره ما
 

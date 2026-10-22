@@ -2,7 +2,7 @@
 
 **Building Persian AI, for Persian speakers and beyond.**  
 
-[GitHub](https://github.com/kheradafrouz) · [Hugging Face](https://huggingface.co/kheradafrouz) · [Models](https://huggingface.co/kheradafrouz/models) · [نسخه فارسی این صفحه](../../README-fa.md)
+[GitHub](https://github.com/kheradafrouz) · [Hugging Face](https://huggingface.co/kheradafrouz) · [Models](https://huggingface.co/kheradafrouz/models) · [نسخه فارسی این صفحه](../README-fa.md)
 
 ---
 
