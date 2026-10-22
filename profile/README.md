@@ -33,7 +33,7 @@ We organize our models into families, each with its own identity, purpose, and d
 
 #### Zahhak (ضحاک)
 
-**Model family archive:** [Hugging Face — Zahhak](https://huggingface.co/kheradafrouz/models)
+**Model family archive:** [Hugging Face — Zahhak](https://huggingface.co/collections/kheradafrouz/zahhak)
 
 Zahhak is a model-family name inspired by Persian mythology. It serves as an identity for models developed under this family.
 
@@ -44,12 +44,6 @@ Individual Zahhak models may target different tasks, architectures, sizes, or de
 #### Future Model Families
 
 We intend to introduce additional model families as our research and engineering capabilities grow.
-
-Each family will have a clearly defined scope, technical documentation, and a dedicated archive when available.
-
-- **More model families:** To be announced.
-- **Specialized Persian models:** Developed according to research priorities and available resources.
-- **Research experiments:** Smaller experimental models and prototypes that help us evaluate new approaches.
 
 ### Model Archive
 

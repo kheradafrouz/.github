@@ -2,7 +2,7 @@
 
 **ساخت هوش مصنوعی فارسی، برای فارسی‌زبانان و فراتر از آن.**
 
-[گیتهاب](https://github.com/kheradafrouz) · [هاگینگ فیس](https://huggingface.co/kheradafrouz) · [مدل ها](https://huggingface.co/kheradafrouz/models) · [English version of this page](profile/README.md)
+[GitHub](https://github.com/kheradafrouz) · [Hugging Face](https://huggingface.co/kheradafrouz) · [Models](https://huggingface.co/kheradafrouz/models) · [English version of this page](profile/README.md)
 
 ### درباره ما
 
@@ -29,7 +29,7 @@
 
 #### ضحاک | Zahhak
 
-**آرشیو خانواده مدل:** [مدل‌های ضحاک در Hugging Face](https://huggingface.co/kheradafrouz/models)
+**آرشیو خانواده مدل:** [مدل‌های ضحاک در Hugging Face](https://huggingface.co/collections/kheradafrouz/zahhak)
 
 ضحاک نام یکی از خانواده‌های مدل خرد افروز است که هویت خود را از اسطوره‌های ایرانی می‌گیرد.
 
