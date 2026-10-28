@@ -35,6 +35,14 @@ Zahhak is a model-family name inspired by Persian mythology. It serves as an ide
 
 Individual Zahhak models may target different tasks, architectures, sizes, or deployment environments. Each release should include its intended use, technical details, evaluation results, limitations, and applicable license.
 
+#### Bozorgmehr (بزرگمهر)
+
+**Model family archive:** [Hugging Face — Bozorgmehr](https://huggingface.co/collections/kheradafrouz/bozorgmehr)
+
+Bozorgmehr is a model-family name inspired by Persian mythology. It serves as an identity for models developed under this family.
+
+Individual Bozorgmehr models have been developed for specific, specialized tasks tailored to the Persian language—for instance, correcting punctuation marks and the like. Each release should include its intended use, technical details, evaluation results, limitations, and applicable license.
+
 *The capabilities and availability of individual models depend on their respective releases.*
 
 #### Future Model Families
